@@ -1,0 +1,12 @@
+en:
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            password:
+              too_short: must be at least 8 characters long
+  errors:
+    messages:
+      invalid: not valid format
+      confirmation: must match
